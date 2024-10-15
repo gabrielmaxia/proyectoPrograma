@@ -29,7 +29,9 @@ public class Programa {
             // collocar la clase gestion de productos
             
             gestionDeProductos pr = new gestionDeProductos();
-            pr.mostraropcionesdegestion();
+            pr.mostraropcionesdegestion();  
+            pr.creararchivo();
+            pr.escribirArchivo();
         }
         
         if(gest == 2) {

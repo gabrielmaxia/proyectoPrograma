@@ -10,6 +10,8 @@ package com.mycompany.programa;
  */
 public class pedidoDeCompra {
     public void prueba3(){
-        System.out.println("prueba 3");
+        System.out.println("1) creacion de pedidos de compra");
+        System.out.println("2) gestion de pedidos de compra ");
+        System.out.println("3) recepcion de pedidos de compra ");
     }
 }
